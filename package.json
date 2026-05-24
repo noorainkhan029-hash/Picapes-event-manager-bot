@@ -1,0 +1,14 @@
+{
+  "name": "picapes-event-manager-bot",
+  "version": "1.0.0",
+  "description": "Discord event manager bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.5.0",
+    "mongoose": "^8.15.1"
+  }
+}
